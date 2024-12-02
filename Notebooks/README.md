@@ -9,9 +9,9 @@ Bejawada Harish
 Shrestha Ashesh Lal (Project lead)
 Vemula Saisharan
 # Data Sources
-# Historical Trip Data (2013-2024):
+## Historical Trip Data (2013-2024):
 Trip Data from 2013-2024
 Detailed Trip Data Description
-# General Bikeshare Feed Specification (Real-time data):
+## General Bikeshare Feed Specification (Real-time data):
 Station Status Data
 Bikeshare Feed Description
